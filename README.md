@@ -1,4 +1,4 @@
 # FirstGitRepo
 My First GitHub Repository
 
-Adding some text to show sub-brnach differce with master branch
+Adding some text to show sub-branch differce with master branch
